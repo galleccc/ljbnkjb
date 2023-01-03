@@ -1,0 +1,22 @@
+.div1 {
+    display: flex;
+    justify-content: center;
+}
+.div2 {
+    align-items: center;
+    position: absolute;
+    top: 200px;
+    left: 1150px;
+    cursor: pointer;
+}
+.div3 {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    rotate: 180deg;
+    cursor: pointer;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
